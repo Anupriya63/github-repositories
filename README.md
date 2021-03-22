@@ -3,9 +3,9 @@
 1) npm i
 2) npm start
 
-Run tests using: npm test
--- 
+## Run tests using: npm test
 
+## Notes
 I have used material ui to style coponents and I've override some default classes fo customization.
 
 It is a small application I could have just pass the states as props among components. However, I managed the states at global level using redux and react hooks , keeping in mind project's scalabily.
